@@ -1,7 +1,7 @@
-wechat-android-study
+wechat-android_exp
 ====================
 
-Decompile WeChat Android source code.
+Decompile WeChat Android source code and play with it; mostly trying to filter moments.
 
 Version 5.4.0.51_r798589
 
